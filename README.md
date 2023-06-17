@@ -7,5 +7,8 @@
 ##  types of input sanitization
  https://github.com/thepwnexperts/m4-sm2
 
+##  bugs(SQL,xss)
+ 
+
 
 ## for vulnrable,just see first module
