@@ -1,10 +1,10 @@
 # m4
- input sanitization
+ input filtration
 
 ## level of waf
  https://github.com/thepwnexperts/m4-sm1
 
-##  types of input sanitization
+##  types of input filtration
  https://github.com/thepwnexperts/m4-sm2
 
 ##  injection vulnerabilities 
